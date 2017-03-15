@@ -149,7 +149,13 @@ The application won't run as is on iOS just yet. You will need to modify the `Co
 <meta http-equiv="Content-Security-Policy" content="default-src 'self' gap://ready file://* *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'">
 ```
  
-Build and run for iOS. Open Safari and select the **Develop\Simulator\index.html** menu to open the console. It will be empty because the code already ran but you can enter `window.location.reload()` to re-run it. Notice the document ID and property are printed to the console. The document was successfully persisted to the database.
+Build and run for iOS.
+
+```bash
+phonegap run ios
+```
+
+Open Safari and select the **Develop\Simulator\index.html** menu to open the console. It will be empty because the code already ran but you can enter `window.location.reload()` to re-run it. Notice the document ID and property are printed to the console. The document was successfully persisted to the database.
 
 ![](../img/phonegap-console-ios.png)
 
