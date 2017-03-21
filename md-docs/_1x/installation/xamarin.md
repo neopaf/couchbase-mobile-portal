@@ -25,7 +25,7 @@ The following libraries can be used in a Xamarin Studio project to import differ
 |`Couchbase.Lite.Storage.SQLCipher`|To use SQLCipher as the storage type.|
 |`Couchbase.Lite.Storage.ForestDB`|To use ForestDB as the storage type.|
 
-## Getting Started
+## Running Your First Example
  
 Create a new Xamarin Forms project in Xamarin Studio. Make sure to select the **Use Shared Library** option.
 

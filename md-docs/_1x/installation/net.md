@@ -25,7 +25,7 @@ The following libraries are available.
 |`Couchbase.Lite.Storage.SQLCipher`|To use SQLCipher as the storage type.|
 |`Couchbase.Lite.Storage.ForestDB`|To use ForestDB as the storage type.|
 
-## Getting Started
+## Running Your First Example
 
 Create a new Visual Studio or Xamarin Studio project and install Couchbase Lite by following the steps above.
 
