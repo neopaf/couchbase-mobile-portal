@@ -120,6 +120,10 @@
           path: guides/sync-gateway/bucket-shadowing/index.html
         - title: Accelerator
           path: guides/sync-gateway/accelerator.html
+        - title: Technical Notes
+          items:
+            - title: Accelerator
+              path: guides/sync-gateway/technical-notes/accelerator.html
     - title: Authentication
       path: guides/authentication/index.html
       items:
