@@ -118,6 +118,8 @@ function initRESTClient(url) {
 }
 ```
 
+> Tip: To find out what the available methods are, use the `help()` method to print the list of parameters for each endpoint (for example, `client.help()`, `client.database.help()` etc.)
+
 This code initializes the REST API client with the url passed as a parameter. The promise chaining then creates the database and inserts a document. To call this method, open **www/js/index.js** and append the following in the `onDeviceReady` method.
 
 ```javascript
