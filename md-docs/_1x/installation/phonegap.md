@@ -54,7 +54,7 @@ phonegap platform add ios
 
 The Couchbase Lite Listener exposes the same functionality as the native SDKs through a common RESTful API. You can perform the same operations on the database by sending HTTP requests to it. In this example, you'll use the Swagger JS client with the Couchbase Lite REST API spec to perform various operations.
 
-- [Download the Swagger JS client](https://raw.githubusercontent.com/swagger-api/swagger-js/master/browser/swagger-client.min.js) to a new file under **www/js/swagger-client.min.js**.
+- [Download the Swagger JS client](http://couchbase-docs.s3.amazonaws.com/assets/swagger-js/2.x/swagger-client.min.js) to a new file under **www/js/swagger-client.min.js**.
 - [Download the Couchbase Lite REST API spec]({{ site.swagger_url }}) to a new file **www/js/spec.js**. Your IDE might show an error because you've copied a JSON object into a JavaScript file but don't worry, prepend the content with the following to set the spec on the `window` object as you will need a reference to it later to initialize the Swagger client.
 
 	```javascript
