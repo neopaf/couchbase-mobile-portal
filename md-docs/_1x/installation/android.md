@@ -64,7 +64,7 @@ For ForestDB databases, the supported architectures are:
 |:------------|:----|:----------|:-------|:-------|:--------|:-----|
 | Yes         | Yes | Yes       | Yes    | Yes    | No      | No   |
 
-## Running Your First Example
+## Getting Started
 
 Create a new Android Studio project and install Couchbase Lite by following one of the methods above.
 

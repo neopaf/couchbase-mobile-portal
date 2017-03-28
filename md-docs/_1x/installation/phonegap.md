@@ -32,7 +32,7 @@ permalink: installation/phonegap/index.html
 	}
 	```
 
-## Running Your First Example
+## Getting Started
 
 Create a new PhoneGap project using the PhoneGap CLI. Then, install the Couchbase Lite plugin.
 

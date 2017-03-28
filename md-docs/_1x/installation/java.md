@@ -36,7 +36,7 @@ The following libraries can be used in a Java project to import different compon
 
 You can find instructions for other build systems (Gradle etc.) on the [Maven repository page](https://mvnrepository.com/artifact/com.couchbase.lite/couchbase-lite-java/{{ site.package_version }}).
 
-## Running Your First Example
+## Getting Started
 
 Create a new command line app in the IDE of your choice (in this example we'll use IntelliJ IDEA CE). By default, new 
 projects in IntelliJ are not setup to download dependencies from Maven. Right-click on the project and select the **Add Framework Support** menu.

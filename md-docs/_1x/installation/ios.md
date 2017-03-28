@@ -89,7 +89,7 @@ For a macOS target, you'll need to make sure the framework is copied to your app
 3. Run `carthage update`.
 4. Drag `CouchbaseLite.framework` from the appropriate platform directory in `Carthage/Build/` to the "Embedded Binaries" section of your Xcode project's "General" settings.
 
-## Running Your First Example
+## Getting Started
 
 Create a new Xcode project and install Couchbase Lite by following one of the methods above.
 
