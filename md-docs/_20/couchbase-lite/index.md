@@ -2,6 +2,7 @@
 id: api-guide
 title: API Guide
 permalink: guides/couchbase-lite/index.html
+canonical_url: installation/index.html
 ---
 
 ## Getting Started
