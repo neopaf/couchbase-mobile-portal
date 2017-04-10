@@ -4,6 +4,18 @@ title: Release notes
 permalink: references/couchbase-lite/release-notes/index.html
 ---
 
+### Developer build 5
+
+- Replication: attachment support.
+
+<block class="objc" />
+
+<block class="swift" />
+
+<block class="net" />
+
+<block class="java" />
+
 ### Developer build 4
 
 <block class="objc" />
